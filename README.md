@@ -1,5 +1,5 @@
 # pomodoro_app
-<br/>
+
 ## This is simple pomodoroApp by flutter with nomadCoder :)
 
 <br/><br/>
